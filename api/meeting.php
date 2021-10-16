@@ -3,7 +3,7 @@
 $API_KEY = "Hangain_default_secret";
 // $Hangain_URL = "http://localhost:3000/api/v1/meeting";
 // $Hangain_URL = "https://Hangain.herokuapp.com/api/v1/meeting";
-$Hangain_URL = "https://Hangain.up.railway.app/api/v1/meeting";
+$Hangain_URL = "hangain.herokuapp.com/api/v1/meeting";
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $Hangain_URL);
