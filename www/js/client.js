@@ -31,11 +31,11 @@ const roomId = getRoomId();
 const peerInfo = getPeerInfo();
 const peerLoockupUrl = 'https://extreme-ip-lookup.com/json/';
 const avatarApiUrl = 'https://eu.ui-avatars.com/api';
-const welcomeImg = '../images/image-placeholder.svg';
-const shareUrlImg = '../images/image-placeholder.svg';
+const welcomeImg = '../images/image-p.gif';
+const shareUrlImg = '../images/image-p.gif';
 const leaveRoomImg = '../images/leave-room.png';
-const confirmImg = '../images/image-placeholder.svg';
-const fileSharingImg = '../images/image-placeholder.svg';
+const confirmImg = '../images/image-p.gif';
+const fileSharingImg = '../images/image-p.gif';
 // nice free icon: https://www.iconfinder.com
 const roomLockedImg = '../images/locked.png';
 const camOffImg = '../images/cam-off.png';
